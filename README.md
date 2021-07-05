@@ -7,7 +7,7 @@
 
 *** 
 
-Course title: Introduction to Python
+### Course title: Introduction to Python
 
 ***
 
